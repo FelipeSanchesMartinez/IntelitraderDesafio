@@ -44,5 +44,5 @@ O programa lerá o conteúdo dos dois arquivos, os combinará e salvará em um t
 ## Notas
 
 - Certifique-se de que os arquivos existam nos caminhos informados.
-- Em caso de erros, mensagens de erro explicativas serão exibidas.# SegattiDesafios
+- Em caso de erros, mensagens de erro explicativas serão exibidas.
 
